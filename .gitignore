@@ -1,0 +1,23 @@
+# Ignore all files in this workspace by default (drafts, backups, logs)
+*
+
+# Allow repository root metadata
+!.gitignore
+!README.md
+!requirements.txt
+
+# Allow the three paper experiment folders and all their contents
+!Eksperimen_XGB_Lag/
+!Eksperimen_XGB_Lag/**
+!Eksperimen_ERA5Land_CHIRPS/
+!Eksperimen_ERA5Land_CHIRPS/**
+!Eksperimen_CHIRPS/
+!Eksperimen_CHIRPS/**
+
+# Exclude temporary, cache, and log files inside allowed folders
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+**/.ipynb_checkpoints/

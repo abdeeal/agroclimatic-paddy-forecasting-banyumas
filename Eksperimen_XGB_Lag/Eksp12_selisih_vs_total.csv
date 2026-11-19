@@ -1,0 +1,29 @@
+Skenario,Varian,Δ R² vs total (mean),Seed varian > total
+SW-5,0. Tanpa bulan basah,-0.037,0/10
+SW-5,2. Berurutan - tahun kalender,-0.09,0/10
+SW-5,3. Berurutan - tahun musim,-0.059,0/10
+SW-5,4. Total + berurutan tahun musim,0.007,9/10
+SW-6,0. Tanpa bulan basah,0.001,5/10
+SW-6,2. Berurutan - tahun kalender,-0.004,2/10
+SW-6,3. Berurutan - tahun musim,-0.006,3/10
+SW-6,4. Total + berurutan tahun musim,0.004,9/10
+SW-7,0. Tanpa bulan basah,-0.006,1/10
+SW-7,2. Berurutan - tahun kalender,-0.045,0/10
+SW-7,3. Berurutan - tahun musim,-0.023,0/10
+SW-7,4. Total + berurutan tahun musim,-0.02,0/10
+SW-8,0. Tanpa bulan basah,-0.007,0/10
+SW-8,2. Berurutan - tahun kalender,0.004,10/10
+SW-8,3. Berurutan - tahun musim,0.004,10/10
+SW-8,4. Total + berurutan tahun musim,-0.014,0/10
+EW-7,0. Tanpa bulan basah,0.0,6/10
+EW-7,2. Berurutan - tahun kalender,-0.02,0/10
+EW-7,3. Berurutan - tahun musim,0.002,6/10
+EW-7,4. Total + berurutan tahun musim,-0.015,1/10
+EW-8,0. Tanpa bulan basah,-0.005,0/10
+EW-8,2. Berurutan - tahun kalender,0.004,10/10
+EW-8,3. Berurutan - tahun musim,0.005,10/10
+EW-8,4. Total + berurutan tahun musim,-0.017,0/10
+EW-9,0. Tanpa bulan basah,-0.004,0/10
+EW-9,2. Berurutan - tahun kalender,0.003,10/10
+EW-9,3. Berurutan - tahun musim,0.014,10/10
+EW-9,4. Total + berurutan tahun musim,0.0,8/10
